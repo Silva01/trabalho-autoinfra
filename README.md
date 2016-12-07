@@ -1,2 +1,2 @@
-# trabalho_autoinfra
-Automatizando a Construção de Uma infraestrutura básica
+# playbook-ansible
+Repositório para guardar Playbooks do Ansible
